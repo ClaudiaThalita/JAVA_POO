@@ -1,6 +1,6 @@
-class Conta { 
-    saldo
-    agencia
-    numero
-    titular
+public class Conta { 
+    saldo;
+    agencia;
+    numero;
+    titular;
 }
