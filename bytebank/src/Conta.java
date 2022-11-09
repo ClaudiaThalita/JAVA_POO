@@ -1,6 +1,6 @@
-public class Conta { 
-    saldo;
-    agencia;
-    numero;
-    titular;
+class Conta {
+    double saldo;
+    int agencia;
+    int numero;
+    String titular;
 }
